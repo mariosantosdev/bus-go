@@ -1,7 +1,7 @@
 import { Entity } from '~/core/entities/entity';
 import { ID } from '~/core/entities/id';
 
-interface DriverProps {
+export interface DriverProps {
   name: string;
   driverLicense: string;
 }
