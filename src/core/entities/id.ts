@@ -12,6 +12,6 @@ export class ID {
   }
 
   public equals(id: ID) {
-    return id.toString() == id.toString();
+    return this.value.toString() === id.toString();
   }
 }
