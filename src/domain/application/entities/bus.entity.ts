@@ -2,7 +2,7 @@ import { Entity } from '~/core/entities/entity';
 import { ID } from '~/core/entities/id';
 import { Optional } from '~/core/types/optional';
 
-interface BusProps {
+export interface BusProps {
   seats: number;
   year: number;
   model: string;
