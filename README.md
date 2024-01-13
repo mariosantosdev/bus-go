@@ -1,5 +1,8 @@
 # BusGo - Bus Tourism Company
 
+## WIP
+This project is building... Consider see the branch [develop](https://github.com/mariosantosdev/bus-go/tree/develop) to see the current code.
+
 ## Introduction
 BusGo is a simple application designed to manage a bus tourism company. This project was built using the principles of TDD, DDD and Clean Architecture in NestJS, a powerful Node.js framework for building scalable and efficient server-side applications.
 
